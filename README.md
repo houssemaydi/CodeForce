@@ -1,2 +1,2 @@
 # CodeForce
-Code Force Code Solutions With Python
+Code Force Codes Solutions With Python
